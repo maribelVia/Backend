@@ -12,4 +12,4 @@
 ## My projects:
 
 1 - Mostrando nome de produto filtrado pelo menor valor, usando filter e Stream API: [filters and Stream API]( https://github.com/maribelVia/filtersAndStreamAPI ) <br>
-2 - 
+2 - Calculadora desenvolvida na linguagem Java, foram usados componentes Swing e foi utilizado o padrão de projeto Observer : [Calculadora]( https://github.com/maribelVia/Calculadora ) <br>
