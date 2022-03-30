@@ -14,3 +14,4 @@
 1 - Mostrando nome de produto filtrado pelo menor valor, usando filter e Stream API: [filters and Stream API]( https://github.com/maribelVia/filtersAndStreamAPI ) <br>
 2 - Calculadora desenvolvida na linguagem Java, foram usados componentes Swing e foi utilizado o padrão de projeto Observer : [Calculadora]( https://github.com/maribelVia/Calculadora ) <br>
 3 - Este projeto utiliza o Java Database Connector para criar tabelas e efetuar comandos SQL a partir de códigos em Java: [JDBC](https://github.com/maribelVia/jdbcProject/tree/master)<br>
+4 - Neste projeto criei um CRUD que manipula os elementos das tuplas de uma tabela Pessoa através do Java Database Connectivity e segue o padrão de projeto DAO : [DAO](https://github.com/maribelVia/dao-jdbc)<br>
